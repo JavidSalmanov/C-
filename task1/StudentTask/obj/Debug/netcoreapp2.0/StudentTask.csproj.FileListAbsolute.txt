@@ -1,0 +1,11 @@
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\bin\Debug\netcoreapp2.0\StudentTask.deps.json
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\bin\Debug\netcoreapp2.0\StudentTask.runtimeconfig.json
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\bin\Debug\netcoreapp2.0\StudentTask.runtimeconfig.dev.json
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\bin\Debug\netcoreapp2.0\StudentTask.dll
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\bin\Debug\netcoreapp2.0\StudentTask.pdb
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\obj\Debug\netcoreapp2.0\StudentTask.csproj.CoreCompileInputs.cache
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\obj\Debug\netcoreapp2.0\StudentTask.AssemblyInfoInputs.cache
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\obj\Debug\netcoreapp2.0\StudentTask.AssemblyInfo.cs
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\obj\Debug\netcoreapp2.0\StudentTask.dll
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\obj\Debug\netcoreapp2.0\StudentTask.pdb
+C:\Users\javid.salmanov\Desktop\StudentTask\StudentTask\obj\Debug\netcoreapp2.0\StudentTask.csprojAssemblyReference.cache
